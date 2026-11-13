@@ -1,0 +1,9 @@
+chromadb==1.5.9
+sentence-transformers
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+pypdf
+langchain-google-genai

@@ -1,0 +1,2158 @@
+[
+  {
+    "id": "job-001",
+    "title": "Frontend Developer",
+    "description": "Build responsive and accessible web applications using modern frontend technologies.\n\nKey skills: React, Next.js, TypeScript, Tailwind CSS.\nPreferred skills: Next.js.\nEducation: Diploma or Bachelor's in Computer Science.",
+    "company": {
+      "name": "TechNova",
+      "logo": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 40000,
+      "max": 70000,
+      "currency": "BDT",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Web Developer"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/frontend-developer",
+    "applicationDeadline": "2026-12-15T23:59:59.000Z",
+    "postedAt": "2026-10-28T10:00:00.000Z"
+  },
+  {
+    "id": "job-002",
+    "title": "Backend Developer (Node.js)",
+    "description": "Develop scalable REST APIs and maintain backend services and database architecture.\n\nKey skills: Node.js, Express.js, PostgreSQL, Prisma.\nPreferred skills: Docker.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "CloudBridge",
+      "logo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 50000,
+      "max": 90000,
+      "currency": "BDT",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Backend Developer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/backend-developer",
+    "applicationDeadline": "2026-12-20T23:59:59.000Z",
+    "postedAt": "2026-10-27T09:00:00.000Z"
+  },
+  {
+    "id": "job-003",
+    "title": "Full Stack Developer",
+    "description": "Work across frontend and backend systems to deliver complete web application features.\n\nKey skills: React, Next.js, Node.js, MongoDB.\nPreferred skills: MongoDB.\nEducation: Diploma or Bachelor's Degree.",
+    "company": {
+      "name": "PixelCraft",
+      "logo": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=200"
+    },
+    "location": {
+      "city": "Chittagong",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 45000,
+      "max": 85000,
+      "currency": "BDT",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Full-Stack Developer"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/fullstack-developer",
+    "applicationDeadline": "2026-12-18T23:59:59.000Z",
+    "postedAt": "2026-10-26T08:00:00.000Z"
+  },
+  {
+    "id": "job-004",
+    "title": "Python Developer",
+    "description": "Build backend services, integrate third-party APIs, and develop Python-based applications.\n\nKey skills: Python, FastAPI, SQLAlchemy, PostgreSQL.\nPreferred skills: AI Integration.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "DataSphere",
+      "logo": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 500,
+      "max": 1000,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Python Developer"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/python-developer",
+    "applicationDeadline": "2026-12-25T23:59:59.000Z",
+    "postedAt": "2026-10-25T11:00:00.000Z"
+  },
+  {
+    "id": "job-005",
+    "title": "Junior React Developer",
+    "description": "Join our frontend team to create modern interfaces and improve user experiences.\n\nKey skills: JavaScript, React, HTML, CSS.\nPreferred skills: Git.\nEducation: Diploma or Bachelor's Student.",
+    "company": {
+      "name": "WebNest",
+      "logo": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 10000,
+      "max": 20000,
+      "currency": "BDT",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": true,
+      "minYears": 0,
+      "maxYears": 1
+    },
+    "eligibleCandidateTypes": [
+      "Frontend Developer"
+    ],
+    "candidateLevels": [
+      "fresher",
+      "junior"
+    ],
+    "applicationUrl": "https://example.com/jobs/junior-react-developer",
+    "applicationDeadline": "2026-12-10T23:59:59.000Z",
+    "postedAt": "2026-10-24T12:00:00.000Z"
+  },
+  {
+    "id": "job-006",
+    "title": "DevOps Engineer",
+    "description": "Manage cloud infrastructure, automate deployment pipelines, and improve application reliability.\n\nKey skills: Docker, Kubernetes, AWS, CI/CD.\nPreferred skills: Kubernetes.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "NexCloud",
+      "logo": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 70000,
+      "max": 120000,
+      "currency": "BDT",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "DevOps Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/devops-engineer",
+    "applicationDeadline": "2026-12-30T23:59:59.000Z",
+    "postedAt": "2026-10-23T09:30:00.000Z"
+  },
+  {
+    "id": "job-007",
+    "title": "UI/UX Designer",
+    "description": "Design intuitive digital experiences through wireframes, prototypes, and user research.\n\nKey skills: Figma, Prototyping, Wireframing, UI Design.\nPreferred skills: User Research.\nEducation: Bachelor's Degree or Equivalent Experience.",
+    "company": {
+      "name": "DesignFlow",
+      "logo": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 25000,
+      "max": 45000,
+      "currency": "BDT",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 2
+    },
+    "eligibleCandidateTypes": [
+      "UI/UX Designer"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/ui-ux-designer",
+    "applicationDeadline": "2026-12-12T23:59:59.000Z",
+    "postedAt": "2026-10-22T10:00:00.000Z"
+  },
+  {
+    "id": "job-008",
+    "title": "Machine Learning Engineer",
+    "description": "Develop machine learning pipelines and integrate AI models into production applications.\n\nKey skills: Python, Machine Learning, PyTorch, TensorFlow.\nPreferred skills: LLM Integration.\nEducation: Bachelor's or Master's Degree.",
+    "company": {
+      "name": "AIVision",
+      "logo": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 80000,
+      "max": 150000,
+      "currency": "BDT",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Machine Learning Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/ml-engineer",
+    "applicationDeadline": "2027-01-05T23:59:59.000Z",
+    "postedAt": "2026-10-21T08:00:00.000Z"
+  },
+  {
+    "id": "job-009",
+    "title": "QA Automation Engineer",
+    "description": "Design automated test suites and ensure software quality through systematic testing.\n\nKey skills: Playwright, Selenium, JavaScript, API Testing.\nPreferred skills: Selenium.\nEducation: Diploma or Bachelor's Degree.",
+    "company": {
+      "name": "QualityWorks",
+      "logo": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 35000,
+      "max": 65000,
+      "currency": "BDT",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "QA Engineer"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/qa-automation-engineer",
+    "applicationDeadline": "2026-12-22T23:59:59.000Z",
+    "postedAt": "2026-10-20T09:00:00.000Z"
+  },
+  {
+    "id": "job-010",
+    "title": "Mobile App Developer",
+    "description": "Build cross-platform mobile applications with smooth performance and intuitive interfaces.\n\nKey skills: React Native, TypeScript, REST API, Firebase.\nPreferred skills: Firebase.\nEducation: Diploma or Bachelor's Degree.",
+    "company": {
+      "name": "AppSphere",
+      "logo": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 500,
+      "max": 1200,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Mobile App Developer"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/mobile-developer",
+    "applicationDeadline": "2027-01-10T23:59:59.000Z",
+    "postedAt": "2026-10-19T10:00:00.000Z"
+  },
+  {
+    "id": "job-011",
+    "title": "Frontend React Developer",
+    "description": "Develop responsive and high-performance web applications using modern React and Tailwind CSS.\n\nKey skills: React.js, Next.js, Tailwind CSS, Git.\nPreferred skills: Next.js.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "WebCrafters BD",
+      "logo": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 400,
+      "max": 900,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Frontend Developer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/frontend-react",
+    "applicationDeadline": "2027-01-15T23:59:59.000Z",
+    "postedAt": "2026-10-20T08:30:00.000Z"
+  },
+  {
+    "id": "job-012",
+    "title": "Backend Node.js Engineer",
+    "description": "Design and maintain scalable RESTful microservices and database schemas.\n\nKey skills: Node.js, Express, MongoDB, Docker.\nPreferred skills: Docker.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "CloudScale Labs",
+      "logo": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 700,
+      "max": 1500,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Backend Developer"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/backend-node",
+    "applicationDeadline": "2027-01-20T23:59:59.000Z",
+    "postedAt": "2026-10-21T09:15:00.000Z"
+  },
+  {
+    "id": "job-013",
+    "title": "UI/UX Designer",
+    "description": "Create intuitive user flows, wireframes, and high-fidelity prototypes for web and mobile products.\n\nKey skills: Figma, Adobe XD, Prototyping, User Research.\nPreferred skills: Prototyping.\nEducation: Any Graduate.",
+    "company": {
+      "name": "PixelPerfect Studio",
+      "logo": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=200"
+    },
+    "location": {
+      "city": "Chittagong",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 350,
+      "max": 800,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "UI/UX Designer"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/ui-ux-designer",
+    "applicationDeadline": "2027-01-05T23:59:59.000Z",
+    "postedAt": "2026-10-22T11:00:00.000Z"
+  },
+  {
+    "id": "job-014",
+    "title": "Full Stack Python Developer",
+    "description": "Build robust web apps leveraging Django/FastAPI on the backend and Vue.js on the frontend.\n\nKey skills: Python, Django, Vue.js, PostgreSQL.\nPreferred skills: Vue.js.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "DataCore Solutions",
+      "logo": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 800,
+      "max": 1600,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 6
+    },
+    "eligibleCandidateTypes": [
+      "Full-Stack Developer"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/fullstack-python",
+    "applicationDeadline": "2027-01-25T23:59:59.000Z",
+    "postedAt": "2026-10-23T14:20:00.000Z"
+  },
+  {
+    "id": "job-015",
+    "title": "DevOps Engineer",
+    "description": "Manage CI/CD pipelines, cloud infrastructure on AWS, and ensure continuous system uptime.\n\nKey skills: AWS, Kubernetes, Terraform, CI/CD.\nPreferred skills: Terraform.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "InfraMatrix",
+      "logo": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=200"
+    },
+    "location": {
+      "city": "Sylhet",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 900,
+      "max": 2000,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "DevOps Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/devops-engineer",
+    "applicationDeadline": "2027-02-01T23:59:59.000Z",
+    "postedAt": "2026-10-24T07:45:00.000Z"
+  },
+  {
+    "id": "job-016",
+    "title": "QA Automation Engineer",
+    "description": "Write automated test scripts and execute regression testing to ensure product quality.\n\nKey skills: Selenium, JavaScript, Cypress, Jest.\nPreferred skills: Selenium.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Testify Tech",
+      "logo": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 450,
+      "max": 1000,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "QA Engineer"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/qa-automation",
+    "applicationDeadline": "2027-01-18T23:59:59.000Z",
+    "postedAt": "2026-10-25T12:00:00.000Z"
+  },
+  {
+    "id": "job-017",
+    "title": "Machine Learning Engineer",
+    "description": "Develop, train, and deploy machine learning models for predictive analytics and NLP use cases.\n\nKey skills: Python, TensorFlow, PyTorch, Pandas.\nPreferred skills: TensorFlow.\nEducation: Master's or Bachelor's Degree.",
+    "company": {
+      "name": "NeuralByte AI",
+      "logo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 1000,
+      "max": 2500,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Machine Learning Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/ml-engineer",
+    "applicationDeadline": "2027-02-10T23:59:59.000Z",
+    "postedAt": "2026-10-26T15:30:00.000Z"
+  },
+  {
+    "id": "job-018",
+    "title": "Product Manager",
+    "description": "Define product roadmap, gather requirements, and collaborate with engineering and design teams.\n\nKey skills: Agile, Scrum, Jira, Market Research.\nPreferred skills: Scrum.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "VentureFlow",
+      "logo": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 850,
+      "max": 1800,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 6
+    },
+    "eligibleCandidateTypes": [
+      "Product Manager"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/product-manager",
+    "applicationDeadline": "2027-01-30T23:59:59.000Z",
+    "postedAt": "2026-10-27T09:00:00.000Z"
+  },
+  {
+    "id": "job-019",
+    "title": "Cybersecurity Analyst",
+    "description": "Monitor network traffic, perform vulnerability assessments, and implement security protocols.\n\nKey skills: Network Security, Penetration Testing, SIEM, Firewalls.\nPreferred skills: SIEM.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "SecureShield Corp",
+      "logo": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 600,
+      "max": 1400,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Cybersecurity Analyst"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/cybersecurity-analyst",
+    "applicationDeadline": "2027-02-05T23:59:59.000Z",
+    "postedAt": "2026-10-28T10:10:00.000Z"
+  },
+  {
+    "id": "job-020",
+    "title": "Technical Content Writer",
+    "description": "Produce engaging developer documentation, technical blog posts, and tutorials for software tools.\n\nKey skills: Technical Writing, Markdown, SEO, Developer Tools.\nPreferred skills: Markdown.\nEducation: Any Graduate.",
+    "company": {
+      "name": "CodeInk Media",
+      "logo": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 300,
+      "max": 700,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Technical Writer"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/technical-writer",
+    "applicationDeadline": "2027-01-12T23:59:59.000Z",
+    "postedAt": "2026-10-29T13:40:00.000Z"
+  },
+  {
+    "id": "job-021",
+    "title": "FinTech Risk Analyst",
+    "description": "Evaluate financial transactions, detect fraudulent activities, and maintain compliance standards for digital banking products.\n\nKey skills: Risk Assessment, SQL, Financial Modeling, Compliance.\nPreferred skills: Financial Modeling.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "ApexPay Global",
+      "logo": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 700,
+      "max": 1500,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Financial Risk Analyst"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/fintech-risk-analyst",
+    "applicationDeadline": "2027-02-15T23:59:59.000Z",
+    "postedAt": "2026-10-30T09:00:00.000Z"
+  },
+  {
+    "id": "job-022",
+    "title": "HealthTech Operations Specialist",
+    "description": "Coordinate telehealth workflows, manage digital health records systems, and support patient-doctor virtual onboarding.\n\nKey skills: Healthcare Operations, CRM Systems, Data Entry, Patient Care Coordination.\nPreferred skills: Data Entry.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "MediConnect Care",
+      "logo": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=200"
+    },
+    "location": {
+      "city": "Chittagong",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 400,
+      "max": 850,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Healthcare Operations Specialist"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/healthtech-ops",
+    "applicationDeadline": "2027-02-20T23:59:59.000Z",
+    "postedAt": "2026-10-30T10:30:00.000Z"
+  },
+  {
+    "id": "job-023",
+    "title": "E-commerce Growth Manager",
+    "description": "Drive online sales strategies, optimize digital storefronts, and manage multi-channel digital advertising campaigns.\n\nKey skills: Digital Marketing, SEO/SEM, Shopify, Data Analytics.\nPreferred skills: Data Analytics.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "BazaarBD Retail",
+      "logo": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 600,
+      "max": 1300,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "E-commerce Marketing Manager"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/ecommerce-growth-manager",
+    "applicationDeadline": "2027-02-12T23:59:59.000Z",
+    "postedAt": "2026-10-30T11:15:00.000Z"
+  },
+  {
+    "id": "job-024",
+    "title": "EdTech Instructional Designer",
+    "description": "Design interactive online learning modules, curricula, and multimedia educational content for K-12 and professional programs.\n\nKey skills: Curriculum Design, LMS Administration, Content Creation, Pedagogy.\nPreferred skills: Pedagogy.\nEducation: Bachelor's or Master's Degree.",
+    "company": {
+      "name": "EduSpark Academy",
+      "logo": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 500,
+      "max": 1100,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Instructional Designer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/edtech-instructional-designer",
+    "applicationDeadline": "2027-02-18T23:59:59.000Z",
+    "postedAt": "2026-10-30T12:00:00.000Z"
+  },
+  {
+    "id": "job-025",
+    "title": "Supply Chain & Logistics Coordinator",
+    "description": "Oversee freight forwarding, warehouse inventory tracking, and vendor delivery schedules across nationwide distribution networks.\n\nKey skills: Supply Chain Management, Inventory Control, ERP Software, Logistics Planning.\nPreferred skills: ERP Software.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "SwiftCargo Logistics",
+      "logo": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=200"
+    },
+    "location": {
+      "city": "Sylhet",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 450,
+      "max": 950,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Supply Chain Coordinator"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/logistics-coordinator",
+    "applicationDeadline": "2027-02-22T23:59:59.000Z",
+    "postedAt": "2026-10-30T13:20:00.000Z"
+  },
+  {
+    "id": "job-026",
+    "title": "CleanTech Solar Project Engineer",
+    "description": "Plan, design, and supervise commercial solar panel installations and renewable energy grid integration projects.\n\nKey skills: Solar Energy Systems, AutoCAD, Electrical Engineering, Project Management.\nPreferred skills: Project Management.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "GreenPower Innovations",
+      "logo": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 800,
+      "max": 1700,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Solar Project Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/cleantech-solar-engineer",
+    "applicationDeadline": "2027-02-28T23:59:59.000Z",
+    "postedAt": "2026-10-30T14:00:00.000Z"
+  },
+  {
+    "id": "job-027",
+    "title": "Unity Game Developer",
+    "description": "Build engaging 2D/3D interactive mechanics, gameplay features, and performance optimizations using Unity and C#.\n\nKey skills: Unity, C#, Game Physics, Shader Programming.\nPreferred skills: Game Physics.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "PixelForge Studios",
+      "logo": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 650,
+      "max": 1400,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Game Developer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/unity-game-developer",
+    "applicationDeadline": "2027-02-14T23:59:59.000Z",
+    "postedAt": "2026-10-30T15:10:00.000Z"
+  },
+  {
+    "id": "job-028",
+    "title": "PropTech Product Specialist",
+    "description": "Bridge real estate operations with proptech digital leasing portals, tenant management software, and automated valuation models.\n\nKey skills: Real Estate Operations, PropTech, Client Relations, Market Analysis.\nPreferred skills: PropTech.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "UrbanNest Properties",
+      "logo": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 500,
+      "max": 1050,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Real Estate Technology Specialist"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/proptech-specialist",
+    "applicationDeadline": "2027-02-25T23:59:59.000Z",
+    "postedAt": "2026-10-30T16:00:00.000Z"
+  },
+  {
+    "id": "job-029",
+    "title": "AgTech Data Scientist",
+    "description": "Analyze agricultural satellite imagery, weather patterns, and crop yield data to build smart-farming predictive models.\n\nKey skills: Python, Machine Learning, GIS Mapping, Statistical Analysis.\nPreferred skills: GIS Mapping.\nEducation: Master's or Bachelor's Degree.",
+    "company": {
+      "name": "AgroSmart Technologies",
+      "logo": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 850,
+      "max": 1900,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Data Scientist"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/agtech-data-scientist",
+    "applicationDeadline": "2027-03-01T23:59:59.000Z",
+    "postedAt": "2026-10-30T16:45:00.000Z"
+  },
+  {
+    "id": "job-030",
+    "title": "Digital PR & Media Strategist",
+    "description": "Craft brand storytelling narratives, manage media house partnerships, and execute digital public relations campaigns.\n\nKey skills: Public Relations, Media Outreach, Content Strategy, Crisis Management.\nPreferred skills: Content Strategy.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Apex Media Group",
+      "logo": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 550,
+      "max": 1200,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Public Relations Specialist"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/digital-pr-strategist",
+    "applicationDeadline": "2027-02-16T23:59:59.000Z",
+    "postedAt": "2026-10-30T17:30:00.000Z"
+  },
+  {
+    "id": "job-021",
+    "title": "FinTech Risk Analyst",
+    "description": "Evaluate financial transactions, detect fraudulent activities, and maintain compliance standards for digital banking products.\n\nKey skills: Risk Assessment, SQL, Financial Modeling, Compliance.\nPreferred skills: Financial Modeling.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "ApexPay Global",
+      "logo": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 700,
+      "max": 1500,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Financial Risk Analyst"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/fintech-risk-analyst",
+    "applicationDeadline": "2027-02-15T23:59:59.000Z",
+    "postedAt": "2026-10-30T09:00:00.000Z"
+  },
+  {
+    "id": "job-022",
+    "title": "HealthTech Operations Specialist",
+    "description": "Coordinate telehealth workflows, manage digital health records systems, and support patient-doctor virtual onboarding.\n\nKey skills: Healthcare Operations, CRM Systems, Data Entry, Patient Care Coordination.\nPreferred skills: Data Entry.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "MediConnect Care",
+      "logo": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=200"
+    },
+    "location": {
+      "city": "Chittagong",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 400,
+      "max": 850,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Healthcare Operations Specialist"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/healthtech-ops",
+    "applicationDeadline": "2027-02-20T23:59:59.000Z",
+    "postedAt": "2026-10-30T10:30:00.000Z"
+  },
+  {
+    "id": "job-023",
+    "title": "E-commerce Growth Manager",
+    "description": "Drive online sales strategies, optimize digital storefronts, and manage multi-channel digital advertising campaigns.\n\nKey skills: Digital Marketing, SEO/SEM, Shopify, Data Analytics.\nPreferred skills: Data Analytics.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "BazaarBD Retail",
+      "logo": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 600,
+      "max": 1300,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "E-commerce Marketing Manager"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/ecommerce-growth-manager",
+    "applicationDeadline": "2027-02-12T23:59:59.000Z",
+    "postedAt": "2026-10-30T11:15:00.000Z"
+  },
+  {
+    "id": "job-024",
+    "title": "EdTech Instructional Designer",
+    "description": "Design interactive online learning modules, curricula, and multimedia educational content for K-12 and professional programs.\n\nKey skills: Curriculum Design, LMS Administration, Content Creation, Pedagogy.\nPreferred skills: Pedagogy.\nEducation: Bachelor's or Master's Degree.",
+    "company": {
+      "name": "EduSpark Academy",
+      "logo": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 500,
+      "max": 1100,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Instructional Designer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/edtech-instructional-designer",
+    "applicationDeadline": "2027-02-18T23:59:59.000Z",
+    "postedAt": "2026-10-30T12:00:00.000Z"
+  },
+  {
+    "id": "job-025",
+    "title": "Supply Chain & Logistics Coordinator",
+    "description": "Oversee freight forwarding, warehouse inventory tracking, and vendor delivery schedules across nationwide distribution networks.\n\nKey skills: Supply Chain Management, Inventory Control, ERP Software, Logistics Planning.\nPreferred skills: ERP Software.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "SwiftCargo Logistics",
+      "logo": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=200"
+    },
+    "location": {
+      "city": "Sylhet",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 450,
+      "max": 950,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Supply Chain Coordinator"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/logistics-coordinator",
+    "applicationDeadline": "2027-02-22T23:59:59.000Z",
+    "postedAt": "2026-10-30T13:20:00.000Z"
+  },
+  {
+    "id": "job-026",
+    "title": "CleanTech Solar Project Engineer",
+    "description": "Plan, design, and supervise commercial solar panel installations and renewable energy grid integration projects.\n\nKey skills: Solar Energy Systems, AutoCAD, Electrical Engineering, Project Management.\nPreferred skills: Project Management.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "GreenPower Innovations",
+      "logo": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 800,
+      "max": 1700,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Solar Project Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/cleantech-solar-engineer",
+    "applicationDeadline": "2027-02-28T23:59:59.000Z",
+    "postedAt": "2026-10-30T14:00:00.000Z"
+  },
+  {
+    "id": "job-027",
+    "title": "Unity Game Developer",
+    "description": "Build engaging 2D/3D interactive mechanics, gameplay features, and performance optimizations using Unity and C#.\n\nKey skills: Unity, C#, Game Physics, Shader Programming.\nPreferred skills: Game Physics.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "PixelForge Studios",
+      "logo": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 650,
+      "max": 1400,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Game Developer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/unity-game-developer",
+    "applicationDeadline": "2027-02-14T23:59:59.000Z",
+    "postedAt": "2026-10-30T15:10:00.000Z"
+  },
+  {
+    "id": "job-028",
+    "title": "PropTech Product Specialist",
+    "description": "Bridge real estate operations with proptech digital leasing portals, tenant management software, and automated valuation models.\n\nKey skills: Real Estate Operations, PropTech, Client Relations, Market Analysis.\nPreferred skills: PropTech.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "UrbanNest Properties",
+      "logo": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 500,
+      "max": 1050,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 1,
+      "maxYears": 3
+    },
+    "eligibleCandidateTypes": [
+      "Real Estate Technology Specialist"
+    ],
+    "candidateLevels": [
+      "junior",
+      "mid-level"
+    ],
+    "applicationUrl": "https://example.com/jobs/proptech-specialist",
+    "applicationDeadline": "2027-02-25T23:59:59.000Z",
+    "postedAt": "2026-10-30T16:00:00.000Z"
+  },
+  {
+    "id": "job-029",
+    "title": "AgTech Data Scientist",
+    "description": "Analyze agricultural satellite imagery, weather patterns, and crop yield data to build smart-farming predictive models.\n\nKey skills: Python, Machine Learning, GIS Mapping, Statistical Analysis.\nPreferred skills: GIS Mapping.\nEducation: Master's or Bachelor's Degree.",
+    "company": {
+      "name": "AgroSmart Technologies",
+      "logo": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=200"
+    },
+    "location": {
+      "city": "Remote",
+      "country": "Bangladesh",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 850,
+      "max": 1900,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Data Scientist"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/agtech-data-scientist",
+    "applicationDeadline": "2027-03-01T23:59:59.000Z",
+    "postedAt": "2026-10-30T16:45:00.000Z"
+  },
+  {
+    "id": "job-030",
+    "title": "Digital PR & Media Strategist",
+    "description": "Craft brand storytelling narratives, manage media house partnerships, and execute digital public relations campaigns.\n\nKey skills: Public Relations, Media Outreach, Content Strategy, Crisis Management.\nPreferred skills: Content Strategy.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Apex Media Group",
+      "logo": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=200"
+    },
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 550,
+      "max": 1200,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 4
+    },
+    "eligibleCandidateTypes": [
+      "Public Relations Specialist"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/digital-pr-strategist",
+    "applicationDeadline": "2027-02-16T23:59:59.000Z",
+    "postedAt": "2026-10-30T17:30:00.000Z"
+  },
+  {
+    "id": "job-031",
+    "title": "Autonomous Driving Software Engineer",
+    "description": "Develop perception algorithms and real-time computer vision software for next-generation electric vehicles.\n\nKey skills: C++, ROS2, Computer Vision, LiDAR Data Processing.\nPreferred skills: Computer Vision.\nEducation: Master's Degree.",
+    "company": {
+      "name": "Bavaria AutoTech",
+      "logo": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=200"
+    },
+    "location": {
+      "city": "Munich",
+      "country": "Germany",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 6500,
+      "max": 9500,
+      "currency": "EUR",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 6
+    },
+    "eligibleCandidateTypes": [
+      "Automotive Software Engineer"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/autonomous-driving-engineer",
+    "applicationDeadline": "2027-02-28T23:59:59.000Z",
+    "postedAt": "2026-10-31T08:00:00.000Z"
+  },
+  {
+    "id": "job-032",
+    "title": "Bioinformatics Pipeline Engineer",
+    "description": "Build high-throughput genomic data pipelines and computational workflows for drug discovery platform.\n\nKey skills: Python, Nextflow, Genomics, AWS Batch.\nPreferred skills: Nextflow.\nEducation: Master's or PhD.",
+    "company": {
+      "name": "Nordic Genetics Lab",
+      "logo": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=200"
+    },
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 55000,
+      "max": 75000,
+      "currency": "SEK",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Bioinformatics Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/bioinformatics-engineer",
+    "applicationDeadline": "2027-03-15T23:59:59.000Z",
+    "postedAt": "2026-10-31T09:15:00.000Z"
+  },
+  {
+    "id": "job-033",
+    "title": "Senior Console Game Renderer",
+    "description": "Optimize custom graphics engine shaders, lighting systems, and GPU memory allocations for AAA console titles.\n\nKey skills: C++, HLSL/GLSL, Vulkan API, DirectX 12.\nPreferred skills: Vulkan API.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Kyoto Interactive",
+      "logo": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=200"
+    },
+    "location": {
+      "city": "Kyoto",
+      "country": "Japan",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 600000,
+      "max": 1100000,
+      "currency": "JPY",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 4,
+      "maxYears": 8
+    },
+    "eligibleCandidateTypes": [
+      "Game Engine Developer"
+    ],
+    "candidateLevels": [
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/game-renderer-kyoto",
+    "applicationDeadline": "2027-01-31T23:59:59.000Z",
+    "postedAt": "2026-10-31T10:30:00.000Z"
+  },
+  {
+    "id": "job-034",
+    "title": "Semiconductor Validation Engineer",
+    "description": "Conduct post-silicon validation, circuit diagnostics, and timing analysis for next-gen microprocessors.\n\nKey skills: Verilog, SystemVerilog, Python, FPGA.\nPreferred skills: Verilog.\nEducation: Bachelor's or Master's Degree.",
+    "company": {
+      "name": "Pacific Microelectronics",
+      "logo": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=200"
+    },
+    "location": {
+      "city": "Hsinchu",
+      "country": "Taiwan",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 110000,
+      "max": 180000,
+      "currency": "TWD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Semiconductor Validation Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/semiconductor-validation-engineer",
+    "applicationDeadline": "2027-02-14T23:59:59.000Z",
+    "postedAt": "2026-10-31T11:45:00.000Z"
+  },
+  {
+    "id": "job-035",
+    "title": "Avionics Systems Integrator",
+    "description": "Integrate fly-by-wire flight control software and safety critical telemetry systems for commercial aerospace platforms.\n\nKey skills: DO-178C, Ada/C, Embedded Systems, ARINC 429.\nPreferred skills: ARINC 429.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "AeroSpace Canada",
+      "logo": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=200"
+    },
+    "location": {
+      "city": "Montreal",
+      "country": "Canada",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 7500,
+      "max": 11500,
+      "currency": "CAD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 7
+    },
+    "eligibleCandidateTypes": [
+      "Avionics Engineer"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/avionics-systems-integrator",
+    "applicationDeadline": "2027-03-01T23:59:59.000Z",
+    "postedAt": "2026-10-31T13:00:00.000Z"
+  },
+  {
+    "id": "job-036",
+    "title": "Smart Grid Energy Analyst",
+    "description": "Analyze renewable energy storage patterns, microgrid stability, and power distribution grids using predictive IoT data.\n\nKey skills: MATLAB, Python, Power Systems, SCADA.\nPreferred skills: SCADA.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "GridDynamics Australia",
+      "logo": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=200"
+    },
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 8000,
+      "max": 12500,
+      "currency": "AUD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Energy Analyst"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/smart-grid-analyst",
+    "applicationDeadline": "2027-02-22T23:59:59.000Z",
+    "postedAt": "2026-10-31T14:15:00.000Z"
+  },
+  {
+    "id": "job-037",
+    "title": "FinTech Core Banking Developer",
+    "description": "Build high-throughput digital wallet infrastructure, real-time FX trading connectors, and secure ledger transaction APIs.\n\nKey skills: Java, Spring Boot, Kafka, PostgreSQL.\nPreferred skills: Spring Boot.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Meridian PayTech",
+      "logo": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=200"
+    },
+    "location": {
+      "city": "London",
+      "country": "United Kingdom",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 5000,
+      "max": 8500,
+      "currency": "GBP",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 6
+    },
+    "eligibleCandidateTypes": [
+      "Banking Software Developer"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/fintech-core-banking-developer",
+    "applicationDeadline": "2027-02-10T23:59:59.000Z",
+    "postedAt": "2026-10-31T15:30:00.000Z"
+  },
+  {
+    "id": "job-038",
+    "title": "Cross-Border E-Commerce Architect",
+    "description": "Design distributed micro-frontend applications and multi-currency payment checkout engines for Southeast Asian retail hubs.\n\nKey skills: Golang, Kubernetes, Redis, GraphQL.\nPreferred skills: GraphQL.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Nanyang Digital Commerce",
+      "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=200"
+    },
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 7000,
+      "max": 12000,
+      "currency": "SGD",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 4,
+      "maxYears": 7
+    },
+    "eligibleCandidateTypes": [
+      "E-commerce Solutions Architect"
+    ],
+    "candidateLevels": [
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/ecommerce-architect-singapore",
+    "applicationDeadline": "2027-03-05T23:59:59.000Z",
+    "postedAt": "2026-10-31T16:20:00.000Z"
+  },
+  {
+    "id": "job-039",
+    "title": "Supply Chain Automation Manager",
+    "description": "Implement automated guided vehicles (AGVs) and warehouse robotics sorting algorithms across MENA logistics hubs.\n\nKey skills: PLC Programming, Warehouse Management Systems, Robotics Integration, Python.\nPreferred skills: PLC Programming.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Emirates Logistics Tech",
+      "logo": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=200"
+    },
+    "location": {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 22000,
+      "max": 38000,
+      "currency": "AED",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 6
+    },
+    "eligibleCandidateTypes": [
+      "Supply Chain Automation Manager"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/supply-chain-automation-dubai",
+    "applicationDeadline": "2027-02-18T23:59:59.000Z",
+    "postedAt": "2026-10-31T17:10:00.000Z"
+  },
+  {
+    "id": "job-040",
+    "title": "Precision AgriTech Hardware Developer",
+    "description": "Design low-power IoT sensor nodes and solar-powered soil monitoring probes for large-scale agricultural monitoring.\n\nKey skills: Embedded C, LoRaWAN, PCB Design, Microcontrollers.\nPreferred skills: PCB Design.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Pampa Systems",
+      "logo": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=200"
+    },
+    "location": {
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 1800,
+      "max": 3200,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Agricultural Hardware Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/agritech-hardware-developer",
+    "applicationDeadline": "2027-02-26T23:59:59.000Z",
+    "postedAt": "2026-10-31T18:00:00.000Z"
+  },
+  {
+    "id": "job-041",
+    "title": "Quantum Computing Algorithm Researcher",
+    "description": "Develop and simulate fault-tolerant quantum algorithms for cryptographic and optimization problems on NISQ devices.\n\nKey skills: Qiskit, Python, Linear Algebra, Quantum Information Science.\nPreferred skills: Python.\nEducation: PhD.",
+    "company": {
+      "name": "Qubit Dynamics",
+      "logo": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200"
+    },
+    "location": {
+      "city": "Zürich",
+      "country": "Switzerland",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 8500,
+      "max": 13000,
+      "currency": "CHF",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Quantum Computing Researcher"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/quantum-algorithm-researcher",
+    "applicationDeadline": "2027-03-20T23:59:59.000Z",
+    "postedAt": "2026-11-01T08:00:00.000Z"
+  },
+  {
+    "id": "job-042",
+    "title": "Maritime Fleet Telematics Engineer",
+    "description": "Design IoT telemetry tracking and predictive engine maintenance systems for commercial container ships.\n\nKey skills: Embedded C++, MQTT, Satellite Communications, Linux.\nPreferred skills: Satellite Communications.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Oceanic Tech Solutions",
+      "logo": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=200"
+    },
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 4500,
+      "max": 7200,
+      "currency": "EUR",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 6
+    },
+    "eligibleCandidateTypes": [
+      "Maritime Telematics Engineer"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/maritime-telematics-engineer",
+    "applicationDeadline": "2027-02-28T23:59:59.000Z",
+    "postedAt": "2026-11-01T09:15:00.000Z"
+  },
+  {
+    "id": "job-043",
+    "title": "Satellite Payload Communications Engineer",
+    "description": "Build high-frequency RF communication payloads and phased array antennas for Low Earth Orbit (LEO) satellites.\n\nKey skills: RF Engineering, MATLAB, Antenna Design, Signal Processing.\nPreferred skills: MATLAB.\nEducation: Master's Degree.",
+    "company": {
+      "name": "AstraSpace Systems",
+      "logo": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200"
+    },
+    "location": {
+      "city": "Toulouse",
+      "country": "France",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 5000,
+      "max": 8000,
+      "currency": "EUR",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 4,
+      "maxYears": 8
+    },
+    "eligibleCandidateTypes": [
+      "Satellite Communications Engineer"
+    ],
+    "candidateLevels": [
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/satellite-communications-engineer",
+    "applicationDeadline": "2027-03-10T23:59:59.000Z",
+    "postedAt": "2026-11-01T10:30:00.000Z"
+  },
+  {
+    "id": "job-044",
+    "title": "Industrial Robotics Control Engineer",
+    "description": "Program multi-axis robotic manipulators and PLC integration for automated smart manufacturing lines.\n\nKey skills: FANUC/KUKA Programming, PLC, Safety PLCs, Industrial Automation.\nPreferred skills: Industrial Automation.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Hanwha Smart Automation",
+      "logo": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=200"
+    },
+    "location": {
+      "city": "Seoul",
+      "country": "South Korea",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 4500000,
+      "max": 7500000,
+      "currency": "KRW",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Robotics Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/robotics-control-engineer",
+    "applicationDeadline": "2027-02-25T23:59:59.000Z",
+    "postedAt": "2026-11-01T11:45:00.000Z"
+  },
+  {
+    "id": "job-045",
+    "title": "Digital Health VR Therapeutics Lead",
+    "description": "Lead the creation of immersive Unity-based virtual reality therapy modules for neurological rehabilitation.\n\nKey skills: Unity 3D, C#, OpenXR, Clinical Trial Protocols.\nPreferred skills: OpenXR.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "NeuroReality Labs",
+      "logo": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=200"
+    },
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 48000,
+      "max": 70000,
+      "currency": "DKK",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 6
+    },
+    "eligibleCandidateTypes": [
+      "Healthcare VR Developer"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/vr-therapeutics-lead",
+    "applicationDeadline": "2027-03-05T23:59:59.000Z",
+    "postedAt": "2026-11-01T12:30:00.000Z"
+  },
+  {
+    "id": "job-046",
+    "title": "Smart City IoT Infrastructure Architect",
+    "description": "Architect city-wide traffic management networks, air quality sensors, and automated energy metering systems.\n\nKey skills: LoRaWAN, Edge Computing, Python, GIS Integration.\nPreferred skills: GIS Integration.\nEducation: Master's Degree.",
+    "company": {
+      "name": "CivicTech Solutions",
+      "logo": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=200"
+    },
+    "location": {
+      "city": "Helsinki",
+      "country": "Finland",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 5200,
+      "max": 8200,
+      "currency": "EUR",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 4,
+      "maxYears": 7
+    },
+    "eligibleCandidateTypes": [
+      "IoT Infrastructure Architect"
+    ],
+    "candidateLevels": [
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/smart-city-iot-architect",
+    "applicationDeadline": "2027-03-15T23:59:59.000Z",
+    "postedAt": "2026-11-01T13:15:00.000Z"
+  },
+  {
+    "id": "job-047",
+    "title": "Bioprocess Development Specialist",
+    "description": "Scale biopharmaceutical fermentation processes and manage bioreactor validation for cell therapy products.\n\nKey skills: Bioreactor Systems, cGMP, Data Analysis, Upstream Processing.\nPreferred skills: Upstream Processing.\nEducation: Bachelor's or Master's Degree.",
+    "company": {
+      "name": "BioPharma Innovations",
+      "logo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=200"
+    },
+    "location": {
+      "city": "Basel",
+      "country": "Switzerland",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 7800,
+      "max": 11500,
+      "currency": "CHF",
+      "period": "monthly",
+      "isNegotiable": false
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 2,
+      "maxYears": 5
+    },
+    "eligibleCandidateTypes": [
+      "Bioprocess Engineer"
+    ],
+    "candidateLevels": [
+      "mid-level",
+      "senior"
+    ],
+    "applicationUrl": "https://example.com/jobs/bioprocess-specialist",
+    "applicationDeadline": "2027-02-28T23:59:59.000Z",
+    "postedAt": "2026-11-01T14:00:00.000Z"
+  },
+  {
+    "id": "job-048",
+    "title": "EV Battery Systems Thermal Engineer",
+    "description": "Design liquid cooling loops and battery thermal management hardware for high-voltage electric vehicle packs.\n\nKey skills: ANSYS Fluent, CFD, Thermal Simulation, Battery Architecture.\nPreferred skills: Thermal Simulation.\nEducation: Master's Degree.",
+    "company": {
+      "name": "Vanguard Electric",
+      "logo": "https://images.unsplash.com/photo-1558441719-674508073756?w=200"
+    },
+    "location": {
+      "city": "Gothenburg",
+      "country": "Sweden",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 48000,
+      "max": 68000,
+      "currency": "SEK",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 6
+    },
+    "eligibleCandidateTypes": [
+      "Battery Systems Engineer"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/ev-battery-thermal-engineer",
+    "applicationDeadline": "2027-03-22T23:59:59.000Z",
+    "postedAt": "2026-11-01T15:00:00.000Z"
+  },
+  {
+    "id": "job-049",
+    "title": "Offshore Wind Turbine Structural Engineer",
+    "description": "Perform structural load calculations and hydrodynamic foundation modeling for deepwater wind turbines.\n\nKey skills: SESAM, OrcaFlex, FEA Analysis, Offshore Standards.\nPreferred skills: SESAM.\nEducation: Master's Degree.",
+    "company": {
+      "name": "NordSea Wind Power",
+      "logo": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=200"
+    },
+    "location": {
+      "city": "Oslo",
+      "country": "Norway",
+      "isRemote": false
+    },
+    "salary": {
+      "min": 55000,
+      "max": 80000,
+      "currency": "NOK",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 7
+    },
+    "eligibleCandidateTypes": [
+      "Wind Energy Structural Engineer"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/wind-structural-engineer",
+    "applicationDeadline": "2027-03-18T23:59:59.000Z",
+    "postedAt": "2026-11-01T16:00:00.000Z"
+  },
+  {
+    "id": "job-050",
+    "title": "Game Backend Infrastructure Engineer",
+    "description": "Build ultra-low-latency matchmaking services and real-time multiplayer server synchronization tools for esports games.\n\nKey skills: Go, gRPC, Redis, Distributed Systems.\nPreferred skills: Redis.\nEducation: Bachelor's Degree.",
+    "company": {
+      "name": "Apex Esports Tech",
+      "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200"
+    },
+    "location": {
+      "city": "Austin",
+      "country": "United States",
+      "isRemote": true
+    },
+    "salary": {
+      "min": 9000,
+      "max": 15000,
+      "currency": "USD",
+      "period": "monthly",
+      "isNegotiable": true
+    },
+    "experience": {
+      "allowFresher": false,
+      "minYears": 3,
+      "maxYears": 6
+    },
+    "eligibleCandidateTypes": [
+      "Game Backend Engineer"
+    ],
+    "candidateLevels": [
+      "senior",
+      "expert"
+    ],
+    "applicationUrl": "https://example.com/jobs/game-backend-engineer",
+    "applicationDeadline": "2027-03-25T23:59:59.000Z",
+    "postedAt": "2026-11-01T17:00:00.000Z"
+  }
+]
